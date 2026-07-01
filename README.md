@@ -72,9 +72,9 @@
 
 </div>
 <p align="center">
-	<a href="mailto:o.ashraf.gabl@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/gmail/gmail-svgrepo-com.svg" alt="Gmail" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="mailto:omar.ashraf.gabl@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/gmail/gmail-svgrepo-com.svg" alt="Gmail" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://linkedin.com/in/omar-gablx01" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/linkedin/linkedin-svgrepo-com.svg" alt="LinkedIn" height='46px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/crypt1cx01" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/github/github-color-svgrepo-com.svg" alt="Github" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/omargablx02" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/github/github-color-svgrepo-com.svg" alt="Github" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://discord.gg/XcJhP5HS" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/discord/discord.svg" alt="Discord" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://wa.me/message/YMNIKDQSESPKL1" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/whatsapp/whatsapp.svg" alt="Whatsapp" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://t.me/Ntfsv7" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/telegram/telegram.svg" alt="Telegram" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
