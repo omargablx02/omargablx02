@@ -2,6 +2,8 @@
 
 # Hi there, I'm **[𝑶𝒎𝒂𝒓 𝑨𝒔𝒉𝒓𝒂𝒇](https://google.com)** <img src="https://raw.githubusercontent.com/omargablx01/ICONS/refs/heads/main/all_icons/gif/hand/Hello_hand.gif" width="35px">
 
+<!-- Link Typing SVG >> https://readme-typing-svg.demolab.com/demo/ -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=4000&pause=1000&color=1FB82C&width=435&lines=%E1%B4%98%CA%80%C9%AA%C9%B4%E1%B4%9B(%22%C2%BB%E1%B4%98%CA%8F%E1%B4%9B%CA%9C%E1%B4%8F%C9%B4+%E1%B4%80%E1%B4%9C%E1%B4%9B%E1%B4%8F%E1%B4%8D%E1%B4%80%E1%B4%9B%C9%AA%E1%B4%8F%C9%B4%C2%AB%22);%E1%B4%87%E1%B4%84%CA%9C%E1%B4%8F+%22%C2%BB%CA%99%E1%B4%80s%CA%9C+%E1%B4%80%E1%B4%9C%E1%B4%9B%E1%B4%8F%E1%B4%8D%E1%B4%80%E1%B4%9B%C9%AA%E1%B4%8F%C9%B4%C2%AB%22)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/omargablx01/ICONS/refs/heads/main/all_icons/gif/super_code/super_code.gif">
