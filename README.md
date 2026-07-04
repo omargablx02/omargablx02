@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm **[𝑶𝒎𝒂𝒓 𝑨𝒔𝒉𝒓𝒂𝒇](https://google.com)** <img src="https://raw.githubusercontent.com/omargablx02/ICONS/refs/heads/main/all_icons/gif/hand/Hello_hand.gif" width="35px">
+# Hi there, I'm **[𝑶𝒎𝒂𝒓 𝑨𝒔𝒉𝒓𝒂𝒇](https://omargablx02.github.io/portfolio/)** <img src="https://raw.githubusercontent.com/omargablx02/ICONS/refs/heads/main/all_icons/gif/hand/Hello_hand.gif" width="35px">
 
 <!-- Link Typing SVG >> https://readme-typing-svg.demolab.com/demo/ -->
 
