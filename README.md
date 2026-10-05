@@ -93,12 +93,16 @@ published a scan of them.
 
 ## Reach Me
 
-<p>
-<a href="mailto:omar.ashraf.gabl@gmail.com"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/gmail/gmail-svgrepo-com.svg" alt="Email" height="44px" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/omar-gablx02"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/linkedin/linkedin-svgrepo-com.svg" alt="LinkedIn" height="46px" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/omargablx02"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/github/github-color-svgrepo-com.svg" alt="GitHub" height="42px" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://omargablx02.github.io/portfolio/"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/github/github-color-svgrepo-com.svg" alt="Portfolio" height="42px" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/0agx01"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/hackerrank/hackerrank.svg" alt="HackerRank" height="42px" /></a>
+<p align="center">
+<a href="mailto:omar.ashraf.gabl@gmail.com"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/gmail/gmail-svgrepo-com.svg" alt="Email" height="42px" /><br /><sub>Email</sub></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/omar-gablx02"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/linkedin/linkedin-svgrepo-com.svg" alt="LinkedIn" height="44px" /><br /><sub>LinkedIn</sub></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/omargablx02"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/github/github-color-svgrepo-com.svg" alt="GitHub" height="42px" /><br /><sub>GitHub</sub></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://omargablx02.github.io/portfolio/"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/globe/globe-svgrepo-com.svg" alt="Portfolio" height="42px" /><br /><sub>Portfolio</sub></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/0agx01"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/hackerrank/hackerrank.svg" alt="HackerRank" height="42px" /><br /><sub>HackerRank</sub></a>
 </p>
 
 <div align="center">
