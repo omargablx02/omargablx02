@@ -72,13 +72,23 @@ day to day; the rest is the skill behind it.
 
 ## Certifications
 
-| Certification | Provider |
-| :--- | :--- |
-| Red Hat System Administration I | Red Hat |
-| Ubuntu Linux Essentials | Canonical |
-| Python Programming and Scripting | self-paced |
-| CompTIA A+ · Network+ · Linux+ | CompTIA |
-| CCNA | Cisco Networking Academy |
+All eight, with where each one was taken. Two were instructor-led, six were
+self-paced online.
+
+| Certification | Provider | Taken | Format |
+| :--- | :--- | :--- | :--- |
+| Red Hat System Administration I | Mahara-Tech (ITI) | July 2026 | Instructor-led |
+| Ubuntu Linux Essentials | Mahara-Tech (ITI) | May 2026 | Instructor-led |
+| Git and GitHub Version Control | Self-paced | April 2026 | Online |
+| Cisco Certified Network Associate (CCNA) | Self-paced | July 2022 | Online |
+| CompTIA Network+ | Self-paced | June 2022 | Online |
+| CompTIA A+ | Self-paced | May 2022 | Online |
+| CompTIA Linux+ | Self-paced | April 2022 | Online |
+| Python Programming and Scripting | Udemy | October 2022 | Online |
+
+Certificate scans are on the [portfolio](https://omargablx02.github.io/portfolio/#certifications)
+for the four that have a public copy: RHCSA, Ubuntu Linux Essentials, Python
+Programming and Scripting, and the university graduation certificate.
 
 ## Reach Me
 
