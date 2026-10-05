@@ -54,7 +54,7 @@ day to day; the rest is the skill behind it.
 
 ## Core Strengths
 
-| | |
+| Strength | What it means |
 | :--- | :--- |
 | **⚡ Automation** | If I have typed the same sequence of commands twice, it should be a script the third time. That is the reasoning behind my Python and Bash work. |
 | **🛡️ Reliability** | Redesigning the core routing and switching layer cut repeat infrastructure failures by 99%, and I would rather test a restore than assume one worked. |
