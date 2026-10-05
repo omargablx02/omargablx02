@@ -1,84 +1,104 @@
 <div align="center">
 
-# Hi there, I'm **[𝑶𝒎𝒂𝒓 𝑨𝒔𝒉𝒓𝒂𝒇](https://omargablx02.github.io/portfolio/)** <img src="https://raw.githubusercontent.com/omargablx02/ICONS/refs/heads/main/all_icons/gif/hand/Hello_hand.gif" width="35px">
+# Hi, I'm **Omar Ashraf**
 
-<!-- Link Typing SVG >> https://readme-typing-svg.demolab.com/demo/ -->
+<img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/gif/hand/Hello_hand.gif" width="38px" alt="">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=4000&pause=1000&color=1FB82C&width=435&lines=%E1%B4%98%CA%80%C9%AA%C9%B4%E1%B4%9B(%22%C2%BB%E1%B4%98%CA%8F%E1%B4%9B%CA%9C%E1%B4%8F%C9%B4+%E1%B4%80%E1%B4%9C%E1%B4%9B%E1%B4%8F%E1%B4%8D%E1%B4%80%E1%B4%9B%C9%AA%E1%B4%8F%C9%B4%C2%AB%22);%E1%B4%87%E1%B4%84%CA%9C%E1%B4%8F+%22%C2%BB%CA%99%E1%B4%80s%CA%9C+%E1%B4%80%E1%B4%9C%E1%B4%9B%E1%B4%8F%E1%B4%8D%E1%B4%80%E1%B4%9B%C9%AA%E1%B4%8F%C9%B4%C2%AB%22)](https://git.io/typing-svg)
+**IT Specialist — Enterprise Networks, Systems & Automation**
 
-<img src="https://raw.githubusercontent.com/omargablx02/ICONS/refs/heads/main/all_icons/gif/super_code/super_code.gif">
+<img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/gif/super_code/super_code.gif" alt="">
 
-## `🛡️ IT Specialist | 🤖 Automations | 💻 System & Network Administrator`
-
-<a href="https://blogs.windows.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/windows/windows.svg" alt="Windows" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/linux/linux-tux-svgrepo-com.svg" alt="Linux" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://python.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/python/python-svgrepo-com.svg" alt="Python" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/bash/bash-icon-svgrepo-com.svg" alt="Bash" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-> ### I am an **IT Specialist** with extensive experience in both software and hardware. I focus on comprehensive maintenance of hardware, networks, and IP camera systems to ensure uninterrupted business continuity. I have extensive experience managing Windows servers and advanced troubleshooting skills across all versions of the Windows operating system. I utilize **Python** and **Bash** to streamline tasks, automate routine processes, and optimize system performance in **Linux** environments. Furthermore, I bridge the gap between technical support and business operations through my operational management of Odoo and Salesforce platforms, giving me a comprehensive set of technical skills.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&width=520&center=true&lines=Networking+and+Routing+%2B+Switching;Windows+Server+and+Oracle;IP+Cameras+and+Device+Fleets;Python+%26+Bash+Automation)](https://omargablx02.github.io/portfolio/)
 
 </div>
 
 ---
-<div align="center">
 
-## `🛠️ Specialized Expertise`
+## About
 
-| **Domain** | **Skills & Tools** |
+I'm an IT Specialist with more than two years administering the network and server estate behind a multi-branch retail operation in New Cairo, where downtime means empty shelves and lost revenue.
+
+I work across the whole stack rather than one layer of it: core routing and switching, Windows Server infrastructure, CCTV, the ERP and CRM platforms the business runs on, and the automation that keeps the repetitive parts from eating my week.
+
+## What I Run Day to Day
+
+| Area | Detail |
 | :--- | :--- |
-| **⚙️ Systems Admin:** | Advanced **Windows** management, Registry optimization, and Linux **(Debian/Ubuntu)** health monitoring. |
-| **🤖 Automation** | Developing **[𝑷𝒚𝒕𝒉𝒐𝒏](https://github.com/omargablx02/Python_Elzero)**/**[𝑩𝒂𝒔𝒉](https://github.com/NTFSv6/Bash)** scripts to eliminate repetitive manual tasks and enhance system performance. |
-| **🌐 Network & Security:** | deployment of **IP Camera** systems, **Networking** troubleshooting. |
-| **📊 Business Logic:** | Functional support and operational management for **Odoo ERP** and **Salesforce CRM**. |
+| **Network** | 10 switches and 14 UniFi devices (UniFi and Cisco) serving the head office and 5 branches connected over site-to-site VPN |
+| **Devices** | 50+ user devices, 87 tablets used daily through Odoo, and 30+ network printers |
+| **Servers** | Multiple Windows servers, each with a distinct role: Oracle database serving all branches, Odoo API integration, the tax department, backup and file sharing, and CCTV recording |
+| **CCTV** | 73+ IP cameras across 2 recording servers with 20-day retention |
+| **Platforms** | Odoo ERP and Salesforce CRM support across 250+ users in all branches |
+| **Perimeter** | Sophos firewall, gateway rules, web filtering and device hardening |
+| **Backup** | Daily multi-tier backup of around 44GB, verified by a documented restore test at the start of each year |
 
----
-</div>
+## What Changed
 
-<div align="center">
+- **Redesigned the core routing and switching layer** — 99% reduction in repeat failures, including the power-outage and switch-failure incidents that used to halt operations.
+- **Delivered the annual exhibition network end to end, year after year** — procured the cabling and hardware, deployed a dedicated UniFi network for the on-site tablets, wired up 25 client computers, then ran the whole site over VPN back to head office as if I were standing there.
 
-## `🧩 Core Strengths`
+## Projects
 
-| -
-| :---
-| **⚡ **Optimization:** Reducing manual tasks through scripting.**
-| **🛠️ **Reliability:** Ensuring 99.9% uptime for hardware and office networks.**
-| **📈 **Integration:** Aligning ERP systems with business requirements.**
+| Project | What it is |
+| :--- | :--- |
+| [Enterprise Network Design](https://github.com/omargablx02/Enterprise-Network-Design) | Multi-area OSPF with HSRP first-hop redundancy across three office zones, with VLAN segmentation and traffic security enforcement, documented in Markdown |
+| [Automations_Bash](https://github.com/omargablx02/Automations_Bash) | Bash and Python tooling for daily server operations, including a `whoami` diagnostics engine reporting 10+ system telemetry metrics |
+| [PC-Testing-Toolkit](https://github.com/omargablx02/PC-Testing-Toolkit) | Windows Batch toolkit automating hardware inventory, system health checks, network configuration dumps and connectivity tests |
+| [ICONS](https://github.com/omargablx02/ICONS) | Open-source collection of README icons across 31 technology categories, so badges stay consistent across projects |
+| Python Projects | Four object-oriented Python applications ([Snake](https://github.com/omargablx02/Snake), [Cars](https://github.com/omargablx02/Cars), [Hangman](https://github.com/omargablx02/Hangman), [Turtle](https://github.com/omargablx02/Turtle)) plus continuous HackerRank and LeetCode problem solving |
 
----
-</div>
+## Skills
 
-<div align="center">
-	
-## `💻 Languages and Tools`
+| Domain | Details |
+| :--- | :--- |
+| **Networking** | LAN/WAN, TCP/IP, routing and switching, subnetting, DHCP, DNS, OSPF, HSRP, RIP, VLANs and inter-VLAN routing, standard and extended ACLs |
+| **Systems** | Windows Server administration, remote desktop administration, user and permission management, directory services, Linux (Ubuntu/RHEL) |
+| **Security** | Sophos firewall administration, gateway rules, web filtering, site-to-site VPN, branch connectivity, device hardening, access control |
+| **Platforms** | Odoo ERP, Odoo API integration, Salesforce CRM, Oracle database administration |
+| **Automation** | Python (OOP), Bash and shell automation, Windows Batch, Git and GitHub |
+| **Operations** | Backup protocols, disaster recovery, restore testing, CCTV matrices, IP cameras, end-user support |
 
-</div>
+## Certifications
+
+| Certification | Provider |
+| :--- | :--- |
+| Red Hat System Administration I | Red Hat |
+| Ubuntu Linux Essentials | Canonical |
+| Python Programming and Scripting | self-paced |
+| CompTIA A+ · Network+ · Linux+ | CompTIA |
+| CCNA | Cisco Networking Academy |
+
+## Languages and Tools
 
 <p align="center">
-  <a href="https://github.com/ntfsv0-0agx00/Limbo-Super_Hacker-" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/python/python-svgrepo-com.svg" alt="Python" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/vscode/vscode-svgrepo-com.svg" alt="Vscode" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/linux/linux-tux-svgrepo-com.svg" alt="Linux" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://debian.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/ubuntu/debian.svg" alt="Debain" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/NTFSv6/Bash" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/bash/bash-icon-svgrepo-com.svg" alt="Bash" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/git/git-svgrepo-com.svg" alt="Git" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://gitlab.com/omargablx01" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/gitlab/gitlab.svg" alt="Git" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://erp-elsalab.odoo.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/odoo/odoo.svg" alt="Odoo" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://azizsallab.my.salesforce.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/salesforce/salesforce.svg" alt="Salesforce" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/0agx01" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/hackerrank/hackerrank.svg" alt="HackerRank" height='42px'/></a>
+  <a href="https://linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/linux/linux-tux-svgrepo-com.svg" alt="Linux" height="42px"/></a>&nbsp;&nbsp;
+  <a href="https://python.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/python/python-svgrepo-com.svg" alt="Python" height="42px"/></a>&nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/bash/bash-icon-svgrepo-com.svg" alt="Bash" height="42px"/></a>&nbsp;&nbsp;
+  <a href="https://blogs.windows.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/windows/windows.svg" alt="Windows" height="42px"/></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/vscode/vscode-svgrepo-com.svg" alt="VS Code" height="42px"/></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/git/git-svgrepo-com.svg" alt="Git" height="42px"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/omargablx02" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/github/github-color-svgrepo-com.svg" alt="GitHub" height="42px"/></a>&nbsp;&nbsp;
+  <a href="https://www.odoo.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/odoo/odoo.svg" alt="Odoo" height="42px"/></a>&nbsp;&nbsp;
+  <a href="https://www.salesforce.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/salesforce/salesforce.svg" alt="Salesforce" height="42px"/></a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/0agx01" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/hackerrank/hackerrank.svg" alt="HackerRank" height="42px"/></a>
 </p>
-<br>
+
+## Reach Me
+
+<p align="center">
+  <a href="mailto:omar.ashraf.gabl@gmail.com"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/gmail/gmail-svgrepo-com.svg" alt="Email" height="44px"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/omar-gablx02" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/linkedin/linkedin-svgrepo-com.svg" alt="LinkedIn" height="46px"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/omargablx02" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/github/github-color-svgrepo-com.svg" alt="GitHub" height="42px"/></a>&nbsp;&nbsp;
+  <a href="https://omargablx02.github.io/portfolio/"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/github/github-color-svgrepo-com.svg" alt="Portfolio" height="42px"/></a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/0agx01" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/hackerrank/hackerrank.svg" alt="HackerRank" height="42px"/></a>
+</p>
+
 <div align="center">
-	
-## `🌐 Reach me at`
+
+**[Portfolio](https://omargablx02.github.io/portfolio/)** · **[LinkedIn](https://www.linkedin.com/in/omar-gablx02)** · **[omar.ashraf.gabl@gmail.com](mailto:omar.ashraf.gabl@gmail.com)**
 
 </div>
-<p align="center">
-	<a href="mailto:omar.ashraf.gabl@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/gmail/gmail-svgrepo-com.svg" alt="Gmail" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://linkedin.com/in/omar-gablx01" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/linkedin/linkedin-svgrepo-com.svg" alt="LinkedIn" height='46px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/omargablx02" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/github/github-color-svgrepo-com.svg" alt="Github" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://discord.gg/XcJhP5HS" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/discord/discord.svg" alt="Discord" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://wa.me/message/YMNIKDQSESPKL1" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/whatsapp/whatsapp.svg" alt="Whatsapp" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://t.me/Ntfsv7" target="_blank"><img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/telegram/telegram.svg" alt="Telegram" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+
 <div align="center">
-	<img src="https://raw.githubusercontent.com/omargablx02/ICONS/5096fe57b90bf628d1696bf027a71787dec5e9b0/all_icons/gif/snake/github-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/gif/snake/github-grid-snake-dark.svg" alt="">
 </div>
