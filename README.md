@@ -80,11 +80,11 @@ self-paced online. Four of them have a certificate scan you can open directly.
 | Red Hat System Administration I | Mahara-Tech (ITI) | July 2026 | Instructor-led | [View PDF](https://drive.google.com/file/d/18exjifE3nMi0K6h83J_25HdgM0A2WHZP/view) |
 | Ubuntu Linux Essentials | Mahara-Tech (ITI) | May 2026 | Instructor-led | [View PDF](https://drive.google.com/file/d/1HKopQFYw3A-V48O-DnfbtqLU95WN3Do5/view) |
 | Git and GitHub Version Control | Self-paced | April 2026 | Online | — |
+| Python Programming and Scripting | Udemy | October 2022 | Online | [View PDF](https://drive.google.com/file/d/1lpN2G1g3dKuFDUNywQjMzB0I9UmN-7Kf/view) |
 | Cisco Certified Network Associate (CCNA) | Self-paced | July 2022 | Online | — |
 | CompTIA Network+ | Self-paced | June 2022 | Online | — |
 | CompTIA A+ | Self-paced | May 2022 | Online | — |
 | CompTIA Linux+ | Self-paced | April 2022 | Online | — |
-| Python Programming and Scripting | Udemy | October 2022 | Online | [View PDF](https://drive.google.com/file/d/1lpN2G1g3dKuFDUNywQjMzB0I9UmN-7Kf/view) |
 
 The university graduation certificate is on the
 [portfolio](https://omargablx02.github.io/portfolio/#certifications) alongside
