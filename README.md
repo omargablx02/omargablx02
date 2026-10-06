@@ -72,8 +72,8 @@ day to day; the rest is the skill behind it.
 
 ## Certifications
 
-All eight, with where each one was taken. Two were instructor-led, six were
-self-paced online. Four of them have a certificate scan you can open directly.
+Four courses completed, with where each was taken. Two were instructor-led and
+two self-paced online. Three have a certificate scan you can open directly.
 
 | Certification | Provider | Taken | Format | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
@@ -81,15 +81,22 @@ self-paced online. Four of them have a certificate scan you can open directly.
 | Ubuntu Linux Essentials | Mahara-Tech (ITI) | May 2026 | Instructor-led | [View PDF](https://drive.google.com/file/d/1HKopQFYw3A-V48O-DnfbtqLU95WN3Do5/view) |
 | Git and GitHub Version Control | Self-paced | April 2026 | Online | — |
 | Python Programming and Scripting | Udemy | October 2022 | Online | [View PDF](https://drive.google.com/file/d/1lpN2G1g3dKuFDUNywQjMzB0I9UmN-7Kf/view) |
-| Cisco Certified Network Associate (CCNA) | Self-paced | July 2022 | Online | — |
-| CompTIA Network+ | Self-paced | June 2022 | Online | — |
-| CompTIA A+ | Self-paced | May 2022 | Online | — |
-| CompTIA Linux+ | Self-paced | April 2022 | Online | — |
+
+## Coursework
+
+Material studied towards four exams I have not sat. Listed as coursework rather
+than certification, because a credential I cannot produce is not one to claim.
+
+| Exam | Focused on | Studied |
+| :--- | :--- | :--- |
+| Cisco Certified Network Associate (CCNA) | Routing, switching, site-to-site VPN, ACLs | July 2022 |
+| CompTIA Network+ | TCP/IP, subnetting, DHCP, DNS, troubleshooting | June 2022 |
+| CompTIA A+ | Hardware, device fleets, OS fundamentals | May 2022 |
+| CompTIA Linux+ | Linux administration, shell, permissions | April 2022 |
 
 The university graduation certificate is on the
 [portfolio](https://omargablx02.github.io/portfolio/#certifications) alongside
-these. The four marked with a dash are certifications I hold; I have not
-published a scan of them.
+the certificates above.
 
 ## Reach Me
 
