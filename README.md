@@ -5,7 +5,7 @@
 
 ### `🛡️ IT Specialist` `🤖 Automation` `💻 Networks & Systems`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&width=520&center=true&lines=Networking+and+Routing+%2B+Switching;Windows+Server+and+Oracle;IP+Cameras+and+Device+Fleets;Python+%26+Bash+Automation" alt="IT Specialist" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&width=520&center=true&lines=Networking+and+Routing+%2B+Switching;Windows+Server+and+AD;IP+Cameras+and+Device+Fleets;Python+%26+Bash+Automation" alt="IT Specialist" />
 
 <p>
 <img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/windows/windows.svg" alt="Windows" height="40px" />&nbsp;&nbsp;&nbsp;
@@ -44,10 +44,10 @@ day to day; the rest is the skill behind it.
 | :--- | :--- |
 | **Networking** | Routing and switching across 10 switches and 14 UniFi devices on UniFi and Cisco, with 5 branches connected over site-to-site VPN. TCP/IP, subnetting, DHCP, DNS, OSPF, HSRP, RIP, static routing, VLANs and inter-VLAN routing, standard and extended ACLs |
 | **Devices** | 50+ user devices, 87 tablets in daily use at head office, and 30+ network printers |
-| **Servers** | Multiple Windows servers each running a distinct role: the Oracle database serving all branches, the tax department, backup and file sharing, and CCTV recording |
+| **Servers** | Multiple Windows servers each running a distinct role: the ERP application every branch logs into, the tax department, backup and file sharing, and CCTV recording |
 | **CCTV** | 73+ IP cameras across 2 recording servers with 20-day retention, from camera placement through IP addressing |
-| **Platforms** | Odoo ERP and Salesforce CRM administration for 250+ users in all branches — users, permissions and day-to-day support — together with Oracle database administration |
-| **Security** | Sophos firewall, gateway rules, web filtering, site-to-site VPN, branch connectivity, device hardening and access control |
+| **Platforms** | Odoo ERP and Salesforce CRM administration across all branches — users, permissions and day-to-day support |
+| **Security** | Perimeter firewall, gateway rules, web filtering, site-to-site VPN, branch connectivity, device hardening and access control |
 | **Systems** | Windows Server administration, RDP-based remote administration, user and permission management, directory services, and Linux (Ubuntu/RHEL) |
 | **Backup** | Daily multi-tier backup of around 44GB, verified by a documented restore test at the start of each year |
 | **Automation** | Python (OOP), Bash and shell automation, and Windows Batch, all version-controlled with Git and GitHub |
