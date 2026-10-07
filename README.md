@@ -46,7 +46,7 @@ day to day; the rest is the skill behind it.
 | **Devices** | 50+ user devices, 87 tablets in daily use at head office, and 30+ network printers |
 | **Servers** | Multiple Windows servers each running a distinct role: the Oracle database serving all branches, the tax department, backup and file sharing, and CCTV recording |
 | **CCTV** | 73+ IP cameras across 2 recording servers with 20-day retention, from camera placement through IP addressing |
-| **Platforms** | Odoo ERP and Salesforce CRM support for 250+ users in all branches, together with the Odoo API integration layer and Oracle database administration |
+| **Platforms** | Odoo ERP and Salesforce CRM administration for 250+ users in all branches — users, permissions and day-to-day support — together with Oracle database administration |
 | **Security** | Sophos firewall, gateway rules, web filtering, site-to-site VPN, branch connectivity, device hardening and access control |
 | **Systems** | Windows Server administration, RDP-based remote administration, user and permission management, directory services, and Linux (Ubuntu/RHEL) |
 | **Backup** | Daily multi-tier backup of around 44GB, verified by a documented restore test at the start of each year |
@@ -58,7 +58,7 @@ day to day; the rest is the skill behind it.
 | :--- | :--- |
 | **⚡ Automation** | If I have typed the same sequence of commands twice, it should be a script the third time. That is the reasoning behind my Python and Bash work. |
 | **🛡️ Reliability** | Redesigning the core routing and switching layer cut repeat infrastructure failures by 99%, and I would rather test a restore than assume one worked. |
-| **🔗 Integration** | I sit between the technical side and the business side, supporting the ERP and CRM that retail actually runs on. |
+| **🔄 Bridge** | I sit between the technical side and the business side, administering the ERP and CRM that retail actually runs on. |
 
 ## Projects
 
