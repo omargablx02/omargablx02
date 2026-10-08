@@ -13,7 +13,9 @@
 <img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/python/python-svgrepo-com.svg" alt="Python" height="40px" />&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/bash/bash-icon-svgrepo-com.svg" alt="Bash" height="40px" />&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/vscode/vscode-svgrepo-com.svg" alt="VS Code" height="40px" />&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/git/git-svgrepo-com.svg" alt="Git" height="40px" />
+<img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/git/git-svgrepo-com.svg" alt="Git" height="40px" />&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/odoo/odoo.svg" alt="Odoo" height="40px" />&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/salesforce/salesforce.svg" alt="Salesforce" height="40px" />
 </p>
 
 <img src="https://raw.githubusercontent.com/omargablx02/ICONS/main/all_icons/gif/super_code/super_code.gif" alt="">
@@ -44,7 +46,7 @@ day to day; the rest is the skill behind it.
 | **Devices** | 50+ user devices, 87 tablets in daily use at head office, and 30+ network printers |
 | **Servers** | Multiple Windows servers each running a distinct role: the ERP application every branch logs into, the tax department, backup and file sharing, and CCTV recording |
 | **CCTV** | 73+ IP cameras across 2 recording servers with 20-day retention, from camera placement through IP addressing |
-| **Platforms** | Day-to-day ERP and CRM administration across all branches — users, permissions and support |
+| **Platforms** | Odoo ERP and Salesforce CRM administration across all branches — users, permissions and day-to-day support |
 | **Security** | Perimeter firewall, gateway rules, web filtering, site-to-site VPN, branch connectivity, device hardening and access control |
 | **Systems** | Windows Server administration, RDP-based remote administration, user and permission management, directory services, and Linux (Ubuntu/RHEL) |
 | **Backup** | Daily multi-tier backup of around 44GB, verified by a documented restore test at the start of each year |
