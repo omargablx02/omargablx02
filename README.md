@@ -35,6 +35,9 @@ switching, Windows Server infrastructure, CCTV, the ERP and CRM platforms the
 business runs on, and the automation that keeps the repetitive parts from eating
 my week.
 
+Currently open to IT Specialist and Network Administrator roles in Cairo and
+Muscat, Oman (ready to relocate, visa sponsorship required).
+
 ## What I Work With
 
 Everything below is current, not historical. The networking row is what I own
@@ -48,9 +51,9 @@ day to day; the rest is the skill behind it.
 | **CCTV** | 73+ IP cameras across 2 recording servers with 20-day retention, from camera placement through IP addressing |
 | **Platforms** | Odoo ERP and Salesforce CRM administration across all branches — users, permissions and day-to-day support |
 | **Security** | Perimeter firewall, gateway rules, web filtering, site-to-site VPN, branch connectivity, device hardening and access control |
-| **Systems** | Windows Server administration, RDP-based remote administration, user and permission management, directory services, and Linux (Ubuntu/RHEL) |
+| **Systems** | Windows Server 2022 administration, RDP-based remote administration, user and permission management, Active Directory (AD DS, domain controllers, OUs, GPO), VMware Workstation, and Linux (Ubuntu/RHEL) |
 | **Backup** | Daily multi-tier backup of around 44GB, verified by a documented restore test at the start of each year |
-| **Automation** | Python (OOP), Bash and shell automation, and Windows Batch, all version-controlled with Git and GitHub |
+| **Automation** | Python (OOP), PowerShell, Bash and shell automation, and Windows Batch, all version-controlled with Git and GitHub |
 
 ## Core Strengths
 
